@@ -57,4 +57,8 @@ Error Handling: If there's an issue fetching data from the API, a friendly error
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
+![Page 1 Screenshot](./assets/page1.png)
+![Page 2 Screenshot](./assets/page2.png)
+![Responsive Screenshot 1](./assets/responsive_pg1.png)
+![Responsive Screenshot 2](./assets/responsive_pg2.png)
 
