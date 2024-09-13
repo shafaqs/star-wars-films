@@ -29,7 +29,7 @@ Follow these steps to run the project locally on your machine:
 
 1. Clone the Repository
 
-git clone https://github.com/Shafaqs/star-wars-films.git
+git clone https://github.com/shafaqs/star-wars-films.git
 cd star-wars-films
 2. Install Dependencies
 Make sure you have Node.js installed. Then run the following command to install all required packages:
@@ -57,8 +57,4 @@ Error Handling: If there's an issue fetching data from the API, a friendly error
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
